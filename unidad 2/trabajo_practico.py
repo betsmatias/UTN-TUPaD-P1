@@ -37,7 +37,7 @@ fahrenheit = (9/5) * celcius + 32
 #imprimimos el resultado
 print(f"la temperatura de {celcius} °C ES EQUIVALENTE A {fahrenheit} °F")
 
-#-------------conversor_sgundos_horas,,,,,,-------------
+#-------------conversor_sgundos_horas-------------
 
 # Este programa convierte segundos en cantidad de horas
 #Solicitar al usuario ingrese cantidad de segundos
