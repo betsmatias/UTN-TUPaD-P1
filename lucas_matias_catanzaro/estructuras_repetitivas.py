@@ -1,6 +1,9 @@
-#trabajo pre¿actico 4
-#numero_creciente
-import random
+
+#EJERCICIO 1:
+
+ #numero_creciente.py 
+
+
 for i in range(101):
   print(i)
 
@@ -11,7 +14,10 @@ for i in range(101):
 
 #-------------------------------#-------------------------------------------
 
-#cantidad_digitos_contiene
+#EJERCICIO 2: 
+ 
+
+#cantidad_digitos_contiene.py
 
 # Solicitar al usuario que ingrese un número entero
 try:
@@ -33,8 +39,9 @@ else:
 
     #--------------------------------------------#---------------------------------------------
 
+   #EJERCICIO 3:
 
-    #suma_enteros_excluyendo
+    #suma_enteros_excluyendo.py
 
   # Solicita al usuario el primer número entero
 try:
@@ -64,9 +71,9 @@ else:
 
 #__________________________________________#________________________________________________________
 
+#EJERCICIO 4 :
 
-
-#suma_secuencia
+#suma_secuencia.py
 
 total = 0
 while True:
@@ -83,12 +90,12 @@ while True:
 #-----------------------------------------------#---------------------------------------------------
 
 
+#EJERCICIO 5:
 
-
-#import_random
+#import_random.py
 # generar un numero aleatorio entre 0 y 9
  
-numero_secreto = random.randint(0,9) 
+numero_secreto = (0,9) 
 # inicializar intentos 
 intentos = 0
 print("adivina el numero entre 0 y 9: ")
@@ -110,8 +117,9 @@ while True:
 
 #----------------------------------------------------------------#____________________________________________________________________
 
+#EJERCICIO 6:
 
-#Pares_decrecientes
+#Pares_decrecientes.py
 # Imprime en pantalla todos los números pares comprendidos
     #entre 0 y 100 (inclusive), en orden decreciente.
 for i in range(100, -1, -2):
@@ -120,8 +128,9 @@ for i in range(100, -1, -2):
 
 #--------------------------------------------------------------------#----------------------------------------------------------------
 
+#EJERCICIO 7:
 
-#suma_numeros_positivos
+#suma_numeros_positivos.py
 
 #pedir el numnero al usuario
 num = int(input("ingrese un numero entero positivo: "))
@@ -137,8 +146,9 @@ while num <= 0:
 #--------------------------------------------------------------------#---------------------------------------------------------------
 
 
+#EJERCICIO 8:
 
-#inicializar contadores
+#inicializar_contadores.PY
 pares = 0
 impares = 0
 negativos = 0
@@ -165,7 +175,9 @@ for i in range(100):
  
 #---------------------------------------------------------------#-------------------------------------------------------------------------------
 
+#EJERCICIO 9 : 
 
+#calcula_media.py
 
 #Pedir la cantidad de numeros al usuario 
 cantidad = int(input("ingrese la cantidad de numeros (por defecto 100):") or 100)
@@ -187,8 +199,9 @@ for i in range(cantidad):
 
 
 #------------------------------------------------------------------#-----------------------------------------------------------------------
+#EJERCICIO 10:
 
-#numero_invertido
+#numero_invertido.py
 
 #pedir al usuario el numero
 num = input("ingrese un numero: ")
