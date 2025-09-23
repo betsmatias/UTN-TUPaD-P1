@@ -1,4 +1,4 @@
-#todo el trabajo practico
+#todo el trabajo practico!!
 #EJERCICIO 1:
 
  #numero_creciente.py 
