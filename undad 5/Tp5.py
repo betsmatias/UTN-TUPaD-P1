@@ -1,5 +1,7 @@
-#listas 
+#listas
+ 
 #EJERCICIO 1:
+
 #notas_estudiantes.py
 
 # Crear una lista con las notas de 10 estudiantes.
