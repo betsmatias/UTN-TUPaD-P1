@@ -1,4 +1,3 @@
-#todo el trabajo practico!!
 
 #EJERCICIO 1:
 
