@@ -2,3 +2,6 @@
 ## creditos 
 lucas matias catanzaro
 
+### FUNCIONES
+lucas matias catanzaro 
+
